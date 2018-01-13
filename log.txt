@@ -1,0 +1,65 @@
+Mon Dec  4 01:39:39 2017
+Longitude: -80.5389   Latitude: 43.4711   Distance from center: 0.0178321     Status: Normal
+
+Mon Dec  4 01:39:43 2017
+Longitude: -80.5394   Latitude: 43.4718   Distance from center: 0.0843192     Status: WARNING, OUT OF BOUNDRY
+
+Mon Dec  4 01:39:46 2017
+Longitude: -80.5397   Latitude: 43.4706   Distance from center: 0.0672096     Status: WARNING, APPROACHING BOUNDRY
+
+Mon Dec  4 01:39:50 2017
+Longitude: -80.5384   Latitude: 43.4714   Distance from center: 0.0663987     Status: WARNING, APPROACHING BOUNDRY
+
+Mon Dec  4 01:39:54 2017
+Longitude: -80.5394   Latitude: 43.4713   Distance from center: 0.0263988     Status: Normal
+
+Mon Dec  4 01:39:58 2017
+Longitude: -80.5396   Latitude: 43.4713   Distance from center: 0.0389642     Status: Normal
+
+Mon Dec  4 01:40:02 2017
+Longitude: -80.5393   Latitude: 43.4704   Distance from center: 0.0804103     Status: WARNING, OUT OF BOUNDRY
+
+Mon Dec  4 01:40:05 2017
+Longitude: -80.5391   Latitude: 43.471   Distance from center: 0.0110846     Status: Normal
+
+Mon Dec  4 01:40:09 2017
+Longitude: -80.5394   Latitude: 43.4713   Distance from center: 0.0293408     Status: Normal
+
+Mon Dec  4 01:40:13 2017
+Longitude: -80.54   Latitude: 43.4715   Distance from center: 0.0816504     Status: WARNING, OUT OF BOUNDRY
+
+Mon Dec  4 01:40:16 2017
+Longitude: -80.5389   Latitude: 43.4704   Distance from center: 0.0801969     Status: WARNING, OUT OF BOUNDRY
+
+Mon Dec  4 01:40:19 2017
+Longitude: -80.5386   Latitude: 43.4712   Distance from center: 0.0490519     Status: Normal
+
+Mon Dec  4 01:40:23 2017
+Longitude: -80.5399   Latitude: 43.4708   Distance from center: 0.0671342     Status: WARNING, APPROACHING BOUNDRY
+
+Mon Dec  4 01:40:27 2017
+Longitude: -80.5387   Latitude: 43.4715   Distance from center: 0.0644799     Status: Normal
+
+Mon Dec  4 01:40:31 2017
+Longitude: -80.5386   Latitude: 43.4712   Distance from center: 0.0493726     Status: Normal
+
+Mon Dec  4 01:40:35 2017
+Longitude: -80.5394   Latitude: 43.4711   Distance from center: 0.0161762     Status: Normal
+
+Mon Dec  4 01:40:39 2017
+Longitude: -80.5387   Latitude: 43.4705   Distance from center: 0.0696549     Status: WARNING, APPROACHING BOUNDRY
+
+Mon Dec  4 01:40:43 2017
+Longitude: -80.5388   Latitude: 43.4702   Distance from center: 0.0969382     Status: WARNING, OUT OF BOUNDRY
+
+Mon Dec  4 01:40:46 2017
+Longitude: -80.5396   Latitude: 43.4714   Distance from center: 0.0503555     Status: Normal
+
+Mon Dec  4 01:40:50 2017
+Longitude: -80.5394   Latitude: 43.4712   Distance from center: 0.0216538     Status: Normal
+
+Mon Dec  4 01:40:54 2017
+Longitude: -80.5387   Latitude: 43.4705   Distance from center: 0.0697217     Status: WARNING, APPROACHING BOUNDRY
+
+Mon Dec  4 01:40:58 2017
+Longitude: -80.5394   Latitude: 43.4713   Distance from center: 0.0302061     Status: Normal
