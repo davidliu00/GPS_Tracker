@@ -14,10 +14,6 @@ using namespace std;
 int ledR = 18;
 int ledG = 19;
 
-
-using namespace std;
-
-
 float minimum(const float dataset[], const int size);
 float average(const float dataset[], const int size);
 float maximum(const float dataset[], const int size);
